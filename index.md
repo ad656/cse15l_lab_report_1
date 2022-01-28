@@ -6,7 +6,7 @@
 
 ![Image](images/p1.png)
 I already had vscode installed from CSE 11, so all I had to do was open a file. As shown, I have an example file open from an assignment from CSE 12. 
-Link to download vsCode [a link](https://code.visualstudio.com/download)
+Link to download vsCode [link to download vsCode](https://code.visualstudio.com/download)
 
 **Part 2**
 
@@ -14,7 +14,7 @@ Link to download vsCode [a link](https://code.visualstudio.com/download)
 
 After resetting my password, I was able to remotely connect by entering my login and password. After connecting, the terminal shows some information about my connection. 
 
-Link to reset password - [link](https://sdacs.ucsd.edu/~icc/index.php)
+Link to reset password - [link to reset password](https://sdacs.ucsd.edu/~icc/index.php)
 
 **Part 3**
 ![Image](images/p3.png)
