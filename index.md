@@ -27,7 +27,7 @@ After creating a new file(WhereamI.java), I was able to create a copy of it on t
 **Part 5**
 ![Image](images/p5.png)
 
-By running the ```ssh-keygen``` command in the terminal, we are able to generate a key to log in without the use of a password. After generating the key, we can safely exit the remote connection and log back in with the key. 
+By running the ```ssh-keygen``` command in the terminal, we are able to generate a key to log in without the use of a password. After generating the key, we can safely exit the remote connection and log back in with the key. When logging in with the normal```ssh``` login, I used 49 keystrokes but with the key I only had to use 22 keystrokes to login. 
 
 **Part6**
 ![Image](images/p6.png)
